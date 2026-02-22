@@ -1,0 +1,2 @@
+# No external python libs needed.
+# Uses system: figlet, cmatrix, ncurses-utils
